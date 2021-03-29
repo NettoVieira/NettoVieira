@@ -1,4 +1,4 @@
-## Eu sou o Netto Vieira, pros mais intimos Netão.
+## Oi eu sou o Netto Vieira, pros mais intimos Netão.
 <a href="https://github.com/NettoVieira">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NettoVieira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NettoVieira&layout=compact&theme=onedark"/>
