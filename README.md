@@ -1,4 +1,16 @@
-## Oi eu sou o Netto Vieira, pros mais intimos Netão.
+### Ola, sou o Nettão! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+
+I'm a software engineer. I currently work as a mobile and web developer.
+
+#### My current tools 
+📲 Front-end Mobile with React Native  
+🌎 Front-end Web with Reactjs and Angular 
+📡 Back-end with Nodejs and .Net core
+🛠️ Typescript  
+🧰 And more...  
+
+#### 💬 Find me elsewhere
+
 <a href="https://github.com/NettoVieira">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NettoVieira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NettoVieira&layout=compact&theme=onedark"/>
@@ -9,7 +21,6 @@
   <img align="center" alt="Netto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Netto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-</div>
   
 
   
