@@ -3,10 +3,10 @@
 I'm a software engineer. I currently work as a mobile and web developer.
 
 #### My current tools 
-📲 Front-end Mobile with React Native  
+📲 Front-end Mobile with React Native </br>
 🌎 Front-end Web with Reactjs and Angular </br>
-📡 Back-end with Nodejs and .Net core
-🛠️ Typescript  
+📡 Back-end with Nodejs and .Net core </br>
+🛠️ Typescript  </br>
 🧰 And more...  
 
 #### 💬 Find me elsewhere
